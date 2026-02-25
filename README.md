@@ -2,7 +2,7 @@
 
 An AI-powered HR Assistant Chatbot that helps employees and candidates with HR-related queries such as leave policies, company guidelines, onboarding steps, and more.
 
-![Dashboard Screenshot](images/HR Bot.png)
+![HR_Bot](images/HR_Bot.png)
 
 
 ```bash
